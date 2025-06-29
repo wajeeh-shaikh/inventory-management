@@ -38,7 +38,7 @@ const LoginPage: React.FC = () => {
           <div className="bg-blue-100 p-3 rounded-full">
             <Boxes className="h-10 w-10 text-blue-700" />
           </div>
-          <h1 className="mt-4 text-2xl font-bold text-gray-900">
+          <h1 className="mt-4 text-2xl font-bold text-gray-900 text-center">
             Inventory Management System
           </h1>
           <p className="mt-2 text-gray-600 text-center">
