@@ -77,6 +77,11 @@ const Sidebar: React.FC = () => {
           <LogOut size={20} className="mr-3" />
           Logout
         </button>
+        <p className="text-blue-300 mt-4 ">Developed by  
+        <Link to="https://www.linkedin.com/in/webdeveloper-wajeehshaikh"  className='hover:underline ms-1' target="_blank" rel="noopener noreferrer">
+          WS
+        </Link>
+        </p>
       </div>
     </aside>
   );
